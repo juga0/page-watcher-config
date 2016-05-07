@@ -1,0 +1,2 @@
+- name: gitlab
+  url: 'https://code.iilab.org/openintegrity-agents/page-watcher-data.git'
